@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi web surfer! 👋
+I'm Jen, a Computer Science & Cognitive Studies student at Vanderbilt University. I'm passionate about solving human problems through thoughtful engineering and design. My past work spans from UX research in healthcare to computational modeling in aerospace.
+
+🔧 My tools:  
+Python · Java · MATLAB · Figma · Framer · JavaScript/HTML/CSS · 
+
+You can reach me at: [jenzhang240@gmail.com](mailto:jenzhang240@gmail.com).
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jenniferzhang-/)! ✨
 
 <!--
 **jenzhee/jenzhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
