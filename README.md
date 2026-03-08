@@ -1,8 +1,8 @@
 ## Hi web surfer! 👋
 I'm Jen, an undergraduate student at Vanderbilt University double-majoring in Computer Science and Cognitive Studies, with a minor in Engineering Management. I'm passionate about solving human problems through thoughtful engineering and design. My past work spans from UX research in healthcare to computational modeling in aerospace. I also code stuff for fun!
 
-🔧 My tools:  
-Python · Java · MATLAB · Figma · Framer · JavaScript/HTML/CSS 
+🔧 My tools:   
+Python · Java · MATLAB · C++ · Figma · Framer · JavaScript/HTML/CSS
 
 You can reach me at: [jenzhang240@gmail.com](mailto:jenzhang240@gmail.com).
 
